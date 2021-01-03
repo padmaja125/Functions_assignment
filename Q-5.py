@@ -1,3 +1,2 @@
-x = 'Hello world Practice makes man perfect'
-y = lambda x : x.uppercase(), x
-print (y)
+y = lambda x : x.upper()
+print (y('Hello world Practice makes man perfect'))
