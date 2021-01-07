@@ -10,3 +10,11 @@ def sorting(x):
 
 
 print(sorting(a))
+"""
+def sorting(get):
+    a = get.split('-')
+    b = a.sort()
+    return ('-').join(b)
+
+print(sorting(get))
+"""
